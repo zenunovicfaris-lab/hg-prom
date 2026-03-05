@@ -5,6 +5,7 @@ import Brendovi from "@/components/Brendovi";
 import Usluge from "@/components/Usluge";
 import Galerija from "@/components/Galerija";
 import Kontakt from "@/components/Kontakt";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Usluge />
       <Galerija />
       <Kontakt />
+      <Footer />
     </div>
   );
 }
