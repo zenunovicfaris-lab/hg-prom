@@ -99,7 +99,7 @@ export default function ONama() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="/images/materijali.jpg"
+                src="/images/kosmomi.jpg"
                 alt="HG-PROM materijali i prodavnica"
                 width={700}
                 height={500}
